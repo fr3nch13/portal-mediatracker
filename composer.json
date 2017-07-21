@@ -3,7 +3,7 @@
 	"description": "Portal: Media Tracker",
 	"type": "project",
 	"keywords": ["project", "application", "mediatracker"],
-	"license": "MIT",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
